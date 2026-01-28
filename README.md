@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/view/ika-musume-type-computer-hacking-gif-11543441"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRpYnpqMTFvMWFmNTZtNjdobGxnenBqaHBmazJ6MDJzbnZ3YzlyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp"  />
 </div>
 
 ###
