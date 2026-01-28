@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRpYnpqMTFvMWFmNTZtNjdobGxnenBqaHBmazJ6MDJzbnZ3YzlyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp"  />
+  <img height="244" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRpYnpqMTFvMWFmNTZtNjdobGxnenBqaHBmazJ6MDJzbnZ3YzlyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋I'm Bezawit</h1>
 
 ###
 
